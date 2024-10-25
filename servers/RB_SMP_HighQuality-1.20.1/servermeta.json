@@ -22,7 +22,8 @@
 	{
 		"appliesTo": ["files"],
 		"patterns": [
-			"mods/*.jar"
+			"mods/*.jar",
+			"options.txt"
 		]
 	}
   ]

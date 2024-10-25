@@ -7939,9 +7939,8 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 10029,
+            "size": 11974,
             "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/RB_SMP_HighQuality-1.20.1/files/options.txt",
-            "MD5": "b1adfba244c44cb42265da4f4b3a845e",
             "path": "options.txt"
           }
         },
