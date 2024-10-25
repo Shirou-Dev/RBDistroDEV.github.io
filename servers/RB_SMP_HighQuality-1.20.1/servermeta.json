@@ -1,0 +1,29 @@
+{
+  "$schema": "file:///D:/RBBaseTestDEV/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0 - 1.20.1",
+    "name": "RB_SMP_HighQuality (Minecraft 1.20.1)",
+    "description": "RB_SMP_HighQuality Running Minecraft 1.20.1 (Forge v47.3.11)",
+    "icon": "",
+    "address": "rebootproject-smp.online:25681",
+    "discord": {
+      "shortId": "RB-SMP 1.20.1",
+      "largeImageText": "REBOOT-SMP",
+      "largeImageKey": "logorbsmp",
+	  "smallImageKey": "logorb"
+    },
+    "mainServer": false,
+    "autoconnect": false
+  },
+  "forge": {
+    "version": "47.3.11"
+  },
+  "untrackedFiles": [
+	{
+		"appliesTo": ["files"],
+		"patterns": [
+			"mods/*.jar"
+		]
+	}
+  ]
+}
