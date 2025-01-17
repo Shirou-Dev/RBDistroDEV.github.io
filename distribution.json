@@ -3,17 +3,17 @@
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "1327894948644786237",
-    "smallImageText": "Powered By OP-Developer",
+    "smallImageText": "Operation Project",
     "smallImageKey": "oplogo"
   },
   "servers": [
     {
       "id": "OPTest-V1-1.20.1",
-      "name": "Operation-Project SS1 (MC 1.20.1)",
-      "description": "Fabric v0.16.10",
+      "name": "Operation-Project SS1",
+      "description": "MC 1.20.1 - Fabric 0.16.10",
       "icon": "https://i.imgur.com/wXisqcM.png",
       "version": "1.0.0",
-      "address": "localhost:25565",
+      "address": "arsxonline.ddns.net:25768",
       "minecraftVersion": "1.20.1",
       "discord": {
         "shortId": "SS1 | Null",
@@ -215,6 +215,26 @@
             "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/files/mods/mcw-furniture-3.3.0-mc1.20.1fabric.jar",
             "MD5": "bf6626032fe412d93406d3bcdeee7963",
             "path": "mods/mcw-furniture-3.3.0-mc1.20.1fabric.jar"
+          }
+        },
+        {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 3844,
+            "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/files/options.txt",
+            "path": "options.txt"
+          }
+        },
+        {
+          "id": "ภาษาไทยสระไม่ลอย 1.20.x (ไอติม).zip",
+          "name": "ภาษาไทยสระไม่ลอย 1.20.x (ไอติม).zip",
+          "type": "File",
+          "artifact": {
+            "size": 645051,
+            "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/files/resourcepacks/%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%AA%E0%B8%A3%E0%B8%B0%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%A5%E0%B8%AD%E0%B8%A2%201.20.x%20(%E0%B9%84%E0%B8%AD%E0%B8%95%E0%B8%B4%E0%B8%A1).zip",
+            "path": "resourcepacks/ภาษาไทยสระไม่ลอย 1.20.x (ไอติม).zip"
           }
         }
       ]

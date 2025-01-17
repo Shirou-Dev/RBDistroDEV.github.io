@@ -2,10 +2,10 @@
   "$schema": "file:///D:/RBBaseTestDEV/schemas/ServerMetaSchema.schema.json",
   "meta": {
     "version": "1.0.0",
-    "name": "Operation-Project SS1 (MC 1.20.1)",
-    "description": "Fabric v0.16.10",
+    "name": "Operation-Project SS1",
+    "description": "MC 1.20.1 - Fabric 0.16.10",
     "icon": "https://i.imgur.com/wXisqcM.png",
-    "address": "localhost:25565",
+    "address": "arsxonline.ddns.net:25768",
     "discord": {
       "shortId": "SS1 | Null",
       "largeImageText": "Operation Project",
@@ -17,5 +17,13 @@
   "fabric": {
     "version": "0.16.10"
   },
-  "untrackedFiles": []
+  "untrackedFiles": [
+	{
+		"appliesTo": ["files"],
+		"patterns": [
+			"resourcepacks/*.zip",
+			"options.txt"
+		]
+	}
+  ]
 }
