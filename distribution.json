@@ -3,31 +3,14 @@
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "1327894948644786237",
-    "smallImageText": "Operation Project",
+    "smallImageText": "Powered By OP-Developer",
     "smallImageKey": "oplogo"
   },
   "servers": [
     {
-      "id": "OPTest-1.20.1",
-      "name": "OPTest (MC 1.20.1)",
-      "description": "OPTest MC 1.20.1",
-      "icon": "https://i.imgur.com/wXisqcM.png",
-      "version": "1.0.0",
-      "address": "localhost:25565",
-      "minecraftVersion": "1.20.1",
-      "discord": {
-        "shortId": "SS1 | Null",
-        "largeImageText": "Operation Project",
-        "largeImageKey": "oplogo"
-      },
-      "mainServer": true,
-      "autoconnect": false,
-      "modules": []
-    },
-    {
-      "id": "OPTest2-1.20.1",
-      "name": "OPTest2 (Minecraft 1.20.1)",
-      "description": "OPTest2 Running Minecraft 1.20.1 (Fabric v0.16.10)",
+      "id": "OPTest-V1-1.20.1",
+      "name": "Operation-Project SS1 (MC 1.20.1)",
+      "description": "Fabric v0.16.10",
       "icon": "https://i.imgur.com/wXisqcM.png",
       "version": "1.0.0",
       "address": "localhost:25565",
@@ -131,6 +114,108 @@
               }
             }
           ]
+        },
+        {
+          "id": "generated.fabricmod:fabric-api:0.92.3+1.20.1@jar",
+          "name": "Fabric API",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2107985,
+            "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/fabricmods/required/fabric-api-0.92.3+1.20.1.jar",
+            "MD5": "dc37eff29b709467379bc41ae4f721b4"
+          }
+        },
+        {
+          "id": "generated.fabricmod:fabric-language-kotlin:1.13.0+kotlin.2.1.0@jar",
+          "name": "Fabric Language Kotlin",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 7089756,
+            "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/fabricmods/required/fabric-language-kotlin-1.13.0+kotlin.2.1.0.jar",
+            "MD5": "f6623d8c006095c4e08323f084e6c00e"
+          }
+        },
+        {
+          "id": "generated.fabricmod:iris:1.6.10@jar",
+          "name": "Iris",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2412690,
+            "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/fabricmods/required/iris-mc1.20.1-1.6.10.jar",
+            "MD5": "c2fec037c71f3574e758ad5833f2ac73"
+          }
+        },
+        {
+          "id": "com.terraformersmc:modmenu:7.2.2@jar",
+          "name": "Mod Menu",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 721366,
+            "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/fabricmods/required/modmenu-7.2.2.jar",
+            "MD5": "2629511a2d3b141d9f2a24dc9685637e"
+          }
+        },
+        {
+          "id": "generated.fabricmod:reeses-sodium-options:1.6.4+mc1.20.1-build.94@jar",
+          "name": "Reese's Sodium Options",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 69662,
+            "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/fabricmods/required/reeses_sodium_options-1.6.4+mc1.20.1-build.94.jar",
+            "MD5": "377cceed07cadc32f8830b6c7c09564c"
+          }
+        },
+        {
+          "id": "me.flashyreese.mods.sodiumextra:sodium-extra:0.5.1+mc1.20.1-build.112@jar",
+          "name": "Sodium Extra",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 365533,
+            "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/fabricmods/required/sodium-extra-0.5.1+mc1.20.1-build.112.jar",
+            "MD5": "58d4b98aa8b259665c835fc6add5021b"
+          }
+        },
+        {
+          "id": "me.jellysquid.mods:sodium:0.5.3@jar",
+          "name": "Sodium",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 852373,
+            "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/fabricmods/required/sodium-fabric-mc1.20.1-0.5.3.jar",
+            "MD5": "11db63c388786f3bfdb9e60c9c0a25c1"
+          }
+        },
+        {
+          "id": "rynnavinx.sspb:sspb:3.4.0@jar",
+          "name": "Sodium Shadowy Path Blocks",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 55474,
+            "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/fabricmods/required/sodium-shadowy-path-blocks-3.4.0.jar",
+            "MD5": "b172c744dae93f16ecb8eb40122328e8"
+          }
+        },
+        {
+          "id": "another_furniture-fabric-1.20.1-3.0.1.jar",
+          "name": "another_furniture-fabric-1.20.1-3.0.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 2733280,
+            "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/files/mods/another_furniture-fabric-1.20.1-3.0.1.jar",
+            "MD5": "ad7757e3ad83a5a789cdf5932d9a20f9",
+            "path": "mods/another_furniture-fabric-1.20.1-3.0.1.jar"
+          }
+        },
+        {
+          "id": "mcw-furniture-3.3.0-mc1.20.1fabric.jar",
+          "name": "mcw-furniture-3.3.0-mc1.20.1fabric.jar",
+          "type": "File",
+          "artifact": {
+            "size": 1910842,
+            "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/files/mods/mcw-furniture-3.3.0-mc1.20.1fabric.jar",
+            "MD5": "bf6626032fe412d93406d3bcdeee7963",
+            "path": "mods/mcw-furniture-3.3.0-mc1.20.1fabric.jar"
+          }
         }
       ]
     }
