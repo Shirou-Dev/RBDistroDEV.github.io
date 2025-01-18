@@ -12,7 +12,7 @@
       "name": "Operation-Project SS1",
       "description": "MC 1.20.1 - Fabric 0.16.10",
       "icon": "https://i.imgur.com/wXisqcM.png",
-      "version": "1.0.6",
+      "version": "1.0.7",
       "address": "arsxonline.ddns.net:25768",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -236,6 +236,16 @@
           }
         },
         {
+          "id": "dev.isxander.yacl3.platform:yet_another_config_lib_v3:3.6.2+1.20.1-fabric@jar",
+          "name": "YetAnotherConfigLib",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1106630,
+            "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/fabricmods/required/YetAnotherConfigLib-3.6.2+1.20.1-fabric.jar",
+            "MD5": "976f29a1a0754edf18c349cf644f9f78"
+          }
+        },
+        {
           "id": "another_furniture-fabric-1.20.1-3.0.1.jar",
           "name": "another_furniture-fabric-1.20.1-3.0.1.jar",
           "type": "File",
@@ -247,6 +257,17 @@
           }
         },
         {
+          "id": "carryon-fabric-1.20.1-2.1.2.7.jar",
+          "name": "carryon-fabric-1.20.1-2.1.2.7.jar",
+          "type": "File",
+          "artifact": {
+            "size": 443033,
+            "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/files/mods/carryon-fabric-1.20.1-2.1.2.7.jar",
+            "MD5": "c050f3d0934bbd8893fe2353eab906bb",
+            "path": "mods/carryon-fabric-1.20.1-2.1.2.7.jar"
+          }
+        },
+        {
           "id": "mcw-furniture-3.3.0-mc1.20.1fabric.jar",
           "name": "mcw-furniture-3.3.0-mc1.20.1fabric.jar",
           "type": "File",
@@ -255,6 +276,17 @@
             "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/files/mods/mcw-furniture-3.3.0-mc1.20.1fabric.jar",
             "MD5": "bf6626032fe412d93406d3bcdeee7963",
             "path": "mods/mcw-furniture-3.3.0-mc1.20.1fabric.jar"
+          }
+        },
+        {
+          "id": "Zoomify-2.14.2+1.20.1.jar",
+          "name": "Zoomify-2.14.2+1.20.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 807877,
+            "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/files/mods/Zoomify-2.14.2+1.20.1.jar",
+            "MD5": "57d42c12e06bf4c8bbdd3f2d14a786ba",
+            "path": "mods/Zoomify-2.14.2+1.20.1.jar"
           }
         },
         {
