@@ -3,7 +3,7 @@
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "1327894948644786237",
-    "smallImageText": "Operation Project",
+    "smallImageText": "Powered By OP-Developer",
     "smallImageKey": "oplogo"
   },
   "servers": [
@@ -12,7 +12,7 @@
       "name": "Operation-Project SS1",
       "description": "MC 1.20.1 - Fabric 0.16.10",
       "icon": "https://i.imgur.com/wXisqcM.png",
-      "version": "1.0.0",
+      "version": "1.0.5",
       "address": "arsxonline.ddns.net:25768",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -116,6 +116,16 @@
           ]
         },
         {
+          "id": "io.github.kosmx.emotes:emotecraft:2.2.7-b.build.50@jar",
+          "name": "Emotecraft",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 873611,
+            "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/fabricmods/required/emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric.jar",
+            "MD5": "3a7abdac2462955c5a51af3cd14712ff"
+          }
+        },
+        {
           "id": "generated.fabricmod:fabric-api:0.92.3+1.20.1@jar",
           "name": "Fabric API",
           "type": "FabricMod",
@@ -153,6 +163,26 @@
             "size": 721366,
             "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/fabricmods/required/modmenu-7.2.2.jar",
             "MD5": "2629511a2d3b141d9f2a24dc9685637e"
+          }
+        },
+        {
+          "id": "com.github.dima_dencep.mods:online_emotes:2.1.2-fabric@jar",
+          "name": "Online Emotes",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 782303,
+            "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/fabricmods/required/online-emotes-2.1.2-fabric.jar",
+            "MD5": "08c36d00100cb0f084853b3ed5169c57"
+          }
+        },
+        {
+          "id": "su.plo.voice:plasmovoice:2.0.10@jar",
+          "name": "Plasmo Voice",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 11375312,
+            "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/fabricmods/required/plasmovoice-fabric-1.20.1-2.0.10.jar",
+            "MD5": "0732e196a467cbaae908f21c1b7815c2"
           }
         },
         {
