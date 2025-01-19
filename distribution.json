@@ -12,7 +12,7 @@
       "name": "Operation-Project SS1",
       "description": "MC 1.20.1 - Fabric 0.16.10",
       "icon": "https://i.imgur.com/wXisqcM.png",
-      "version": "1.0.8",
+      "version": "1.0.9",
       "address": "arsxonline.ddns.net:25768",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -488,7 +488,7 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 3694,
+            "size": 3698,
             "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/files/options.txt",
             "path": "options.txt"
           }

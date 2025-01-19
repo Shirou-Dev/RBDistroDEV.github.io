@@ -42,7 +42,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","fabric","file/OP-PJ UI-V1"]
+resourcePacks:["vanilla","fabric","file/OP-PJ UI-V1.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:th_th
