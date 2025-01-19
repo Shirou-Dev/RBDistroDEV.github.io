@@ -12,7 +12,7 @@
       "name": "Operation-Project SS1",
       "description": "MC 1.20.1 - Fabric 0.16.10",
       "icon": "https://i.imgur.com/wXisqcM.png",
-      "version": "1.0.9",
+      "version": "1.1.0",
       "address": "arsxonline.ddns.net:25768",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -310,7 +310,7 @@
           "name": "op-ui-ingame.txt",
           "type": "File",
           "artifact": {
-            "size": 16140,
+            "size": 17788,
             "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/files/config/fancymenu/customization/op-ui-ingame.txt",
             "path": "config/fancymenu/customization/op-ui-ingame.txt"
           }
@@ -320,7 +320,7 @@
           "name": "op-ui.txt",
           "type": "File",
           "artifact": {
-            "size": 22686,
+            "size": 20545,
             "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/files/config/fancymenu/customization/op-ui.txt",
             "path": "config/fancymenu/customization/op-ui.txt"
           }
