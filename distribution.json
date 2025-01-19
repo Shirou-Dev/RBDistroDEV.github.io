@@ -3,8 +3,8 @@
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "1327894948644786237",
-    "smallImageText": "Powered By OP-Developer",
-    "smallImageKey": "oplogo"
+    "smallImageText": "",
+    "smallImageKey": ""
   },
   "servers": [
     {
@@ -12,11 +12,11 @@
       "name": "Operation-Project SS1",
       "description": "MC 1.20.1 - Fabric 0.16.10",
       "icon": "https://i.imgur.com/wXisqcM.png",
-      "version": "1.1.0",
+      "version": "1.1.2",
       "address": "arsxonline.ddns.net:25768",
       "minecraftVersion": "1.20.1",
       "discord": {
-        "shortId": "SS1 | Null",
+        "shortId": "SS1 - The Ritual",
         "largeImageText": "Operation Project",
         "largeImageKey": "oplogo"
       },

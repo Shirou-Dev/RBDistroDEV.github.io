@@ -1,13 +1,13 @@
 {
   "$schema": "file:///D:/RBBaseTestDEV/schemas/ServerMetaSchema.schema.json",
   "meta": {
-    "version": "1.1.0",
+    "version": "1.1.2",
     "name": "Operation-Project SS1",
     "description": "MC 1.20.1 - Fabric 0.16.10",
     "icon": "https://i.imgur.com/wXisqcM.png",
     "address": "arsxonline.ddns.net:25768",
     "discord": {
-      "shortId": "SS1 | Null",
+      "shortId": "SS1 - The Ritual",
       "largeImageText": "Operation Project",
       "largeImageKey": "oplogo"
     },
@@ -23,7 +23,7 @@
 		"patterns": [
 			"resourcepacks/*.zip",
 			"options.txt",
-      "config/**/*",
+			"config/**/*",
 			"config/*.cfg",
 			"config/**/*.yml",
 			"config/**/*.txt",
