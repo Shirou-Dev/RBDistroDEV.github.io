@@ -1,7 +1,7 @@
 {
   "$schema": "file:///D:/RBBaseTestDEV/schemas/ServerMetaSchema.schema.json",
   "meta": {
-    "version": "1.0.7",
+    "version": "1.0.8",
     "name": "Operation-Project SS1",
     "description": "MC 1.20.1 - Fabric 0.16.10",
     "icon": "https://i.imgur.com/wXisqcM.png",
@@ -12,7 +12,7 @@
       "largeImageKey": "oplogo"
     },
     "mainServer": true,
-    "autoconnect": true
+    "autoconnect": false
   },
   "fabric": {
     "version": "0.16.10"
@@ -22,7 +22,16 @@
 		"appliesTo": ["files"],
 		"patterns": [
 			"resourcepacks/*.zip",
-			"options.txt"
+			"options.txt",
+      "config/**/*",
+			"config/*.cfg",
+			"config/**/*.yml",
+			"config/**/*.txt",
+			"config/**/*.toml",
+			"config/*.toml",
+			"config/*.json",
+			"config/*.properties",
+			"config/*.json5"
 		]
 	}
   ]

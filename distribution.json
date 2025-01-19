@@ -12,7 +12,7 @@
       "name": "Operation-Project SS1",
       "description": "MC 1.20.1 - Fabric 0.16.10",
       "icon": "https://i.imgur.com/wXisqcM.png",
-      "version": "1.0.7",
+      "version": "1.0.8",
       "address": "arsxonline.ddns.net:25768",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -21,7 +21,7 @@
         "largeImageKey": "oplogo"
       },
       "mainServer": true,
-      "autoconnect": true,
+      "autoconnect": false,
       "modules": [
         {
           "id": "net.fabricmc:fabric-loader:0.16.10",
@@ -246,6 +246,156 @@
           }
         },
         {
+          "id": "bg.png",
+          "name": "bg.png",
+          "type": "File",
+          "artifact": {
+            "size": 2356796,
+            "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/files/config/fancymenu/assets/bg.png",
+            "path": "config/fancymenu/assets/bg.png"
+          }
+        },
+        {
+          "id": "logowindow.icns",
+          "name": "logowindow.icns",
+          "type": "File",
+          "artifact": {
+            "size": 2335,
+            "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/files/config/fancymenu/assets/logowindow.icns",
+            "path": "config/fancymenu/assets/logowindow.icns"
+          }
+        },
+        {
+          "id": "logowindow.png",
+          "name": "logowindow.png",
+          "type": "File",
+          "artifact": {
+            "size": 930,
+            "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/files/config/fancymenu/assets/logowindow.png",
+            "path": "config/fancymenu/assets/logowindow.png"
+          }
+        },
+        {
+          "id": "logowindow2.png",
+          "name": "logowindow2.png",
+          "type": "File",
+          "artifact": {
+            "size": 485,
+            "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/files/config/fancymenu/assets/logowindow2.png",
+            "path": "config/fancymenu/assets/logowindow2.png"
+          }
+        },
+        {
+          "id": "oplogo.png",
+          "name": "oplogo.png",
+          "type": "File",
+          "artifact": {
+            "size": 10984,
+            "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/files/config/fancymenu/assets/oplogo.png",
+            "path": "config/fancymenu/assets/oplogo.png"
+          }
+        },
+        {
+          "id": "customizablemenus.txt",
+          "name": "customizablemenus.txt",
+          "type": "File",
+          "artifact": {
+            "size": 84,
+            "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/files/config/fancymenu/customizablemenus.txt",
+            "path": "config/fancymenu/customizablemenus.txt"
+          }
+        },
+        {
+          "id": "op-ui-ingame.txt",
+          "name": "op-ui-ingame.txt",
+          "type": "File",
+          "artifact": {
+            "size": 16140,
+            "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/files/config/fancymenu/customization/op-ui-ingame.txt",
+            "path": "config/fancymenu/customization/op-ui-ingame.txt"
+          }
+        },
+        {
+          "id": "op-ui.txt",
+          "name": "op-ui.txt",
+          "type": "File",
+          "artifact": {
+            "size": 22686,
+            "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/files/config/fancymenu/customization/op-ui.txt",
+            "path": "config/fancymenu/customization/op-ui.txt"
+          }
+        },
+        {
+          "id": "custom_gui_screens.txt",
+          "name": "custom_gui_screens.txt",
+          "type": "File",
+          "artifact": {
+            "size": 51,
+            "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/files/config/fancymenu/custom_gui_screens.txt",
+            "path": "config/fancymenu/custom_gui_screens.txt"
+          }
+        },
+        {
+          "id": "element_layer_control.lewidget",
+          "name": "element_layer_control.lewidget",
+          "type": "File",
+          "artifact": {
+            "size": 197,
+            "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/files/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
+            "path": "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+          }
+        },
+        {
+          "id": "legacy_checklist.txt",
+          "name": "legacy_checklist.txt",
+          "type": "File",
+          "artifact": {
+            "size": 42,
+            "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/files/config/fancymenu/legacy_checklist.txt",
+            "path": "config/fancymenu/legacy_checklist.txt"
+          }
+        },
+        {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 1940,
+            "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/files/config/fancymenu/options.txt",
+            "path": "config/fancymenu/options.txt"
+          }
+        },
+        {
+          "id": "dark.json",
+          "name": "dark.json",
+          "type": "File",
+          "artifact": {
+            "size": 4133,
+            "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/files/config/fancymenu/ui_themes/dark.json",
+            "path": "config/fancymenu/ui_themes/dark.json"
+          }
+        },
+        {
+          "id": "light.json",
+          "name": "light.json",
+          "type": "File",
+          "artifact": {
+            "size": 4135,
+            "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/files/config/fancymenu/ui_themes/light.json",
+            "path": "config/fancymenu/ui_themes/light.json"
+          }
+        },
+        {
+          "id": "user_variables.db",
+          "name": "user_variables.db",
+          "type": "File",
+          "artifact": {
+            "size": 23,
+            "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/files/config/fancymenu/user_variables.db",
+            "path": "config/fancymenu/user_variables.db"
+          }
+        },
+        {
           "id": "another_furniture-fabric-1.20.1-3.0.1.jar",
           "name": "another_furniture-fabric-1.20.1-3.0.1.jar",
           "type": "File",
@@ -268,6 +418,39 @@
           }
         },
         {
+          "id": "fancymenu_fabric_3.3.2_MC_1.20.1 (1).jar",
+          "name": "fancymenu_fabric_3.3.2_MC_1.20.1 (1).jar",
+          "type": "File",
+          "artifact": {
+            "size": 2877394,
+            "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/files/mods/fancymenu_fabric_3.3.2_MC_1.20.1%20(1).jar",
+            "MD5": "a7387fcf4f746e8563dff3c11a65add7",
+            "path": "mods/fancymenu_fabric_3.3.2_MC_1.20.1 (1).jar"
+          }
+        },
+        {
+          "id": "figura-0.1.4+1.20.1-fabric-mc.jar",
+          "name": "figura-0.1.4+1.20.1-fabric-mc.jar",
+          "type": "File",
+          "artifact": {
+            "size": 2313608,
+            "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/files/mods/figura-0.1.4+1.20.1-fabric-mc.jar",
+            "MD5": "f4a65db9c13a6c53fecb4ab2d0ad10df",
+            "path": "mods/figura-0.1.4+1.20.1-fabric-mc.jar"
+          }
+        },
+        {
+          "id": "konkrete_fabric_1.8.1_MC_1.20.1.jar",
+          "name": "konkrete_fabric_1.8.1_MC_1.20.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 892067,
+            "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/files/mods/konkrete_fabric_1.8.1_MC_1.20.1.jar",
+            "MD5": "a816ca0f5272f0e60c745f7fe6bef1d6",
+            "path": "mods/konkrete_fabric_1.8.1_MC_1.20.1.jar"
+          }
+        },
+        {
           "id": "mcw-furniture-3.3.0-mc1.20.1fabric.jar",
           "name": "mcw-furniture-3.3.0-mc1.20.1fabric.jar",
           "type": "File",
@@ -276,6 +459,17 @@
             "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/files/mods/mcw-furniture-3.3.0-mc1.20.1fabric.jar",
             "MD5": "bf6626032fe412d93406d3bcdeee7963",
             "path": "mods/mcw-furniture-3.3.0-mc1.20.1fabric.jar"
+          }
+        },
+        {
+          "id": "melody_fabric_1.0.4_MC_1.20.1-1.20.4.jar",
+          "name": "melody_fabric_1.0.4_MC_1.20.1-1.20.4.jar",
+          "type": "File",
+          "artifact": {
+            "size": 39696,
+            "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/files/mods/melody_fabric_1.0.4_MC_1.20.1-1.20.4.jar",
+            "MD5": "8095b46d324586b3cf3d2f5bffe8b417",
+            "path": "mods/melody_fabric_1.0.4_MC_1.20.1-1.20.4.jar"
           }
         },
         {
@@ -294,19 +488,19 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 3844,
+            "size": 3694,
             "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/files/options.txt",
             "path": "options.txt"
           }
         },
         {
-          "id": "ภาษาไทยสระไม่ลอย 1.20.x (ไอติม).zip",
-          "name": "ภาษาไทยสระไม่ลอย 1.20.x (ไอติม).zip",
+          "id": "OP-PJ UI-V1.zip",
+          "name": "OP-PJ UI-V1.zip",
           "type": "File",
           "artifact": {
-            "size": 645051,
-            "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/files/resourcepacks/%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%AA%E0%B8%A3%E0%B8%B0%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%A5%E0%B8%AD%E0%B8%A2%201.20.x%20(%E0%B9%84%E0%B8%AD%E0%B8%95%E0%B8%B4%E0%B8%A1).zip",
-            "path": "resourcepacks/ภาษาไทยสระไม่ลอย 1.20.x (ไอติม).zip"
+            "size": 544578,
+            "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/files/resourcepacks/OP-PJ%20UI-V1.zip",
+            "path": "resourcepacks/OP-PJ UI-V1.zip"
           }
         }
       ]

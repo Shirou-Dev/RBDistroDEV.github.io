@@ -42,8 +42,8 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","fabric","file/ภาษาไทยสระไม่ลอย 1.20.x (ไอติม).zip"]
-incompatibleResourcePacks:["file/ภาษาไทยสระไม่ลอย 1.20.x (ไอติม).zip"]
+resourcePacks:["vanilla","fabric","file/OP-PJ UI-V1"]
+incompatibleResourcePacks:[]
 lastServer:
 lang:th_th
 soundDevice:""
