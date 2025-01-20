@@ -3,8 +3,8 @@
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "1327894948644786237",
-    "smallImageText": "",
-    "smallImageKey": ""
+    "smallImageText": "OP-Developer",
+    "smallImageKey": "oplogo"
   },
   "servers": [
     {
@@ -12,7 +12,7 @@
       "name": "Operation-Project SS1",
       "description": "MC 1.20.1 - Fabric 0.16.10",
       "icon": "https://i.imgur.com/wXisqcM.png",
-      "version": "1.1.2",
+      "version": "1.1.3",
       "address": "arsxonline.ddns.net:25768",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -114,6 +114,16 @@
               }
             }
           ]
+        },
+        {
+          "id": "dev.architectury.utils:architectury:9.2.14@jar",
+          "name": "Architectury",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 585207,
+            "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/fabricmods/required/architectury-9.2.14-fabric.jar",
+            "MD5": "2ae04e0dad60a390031ee341e0b2ab45"
+          }
         },
         {
           "id": "me.shedaniel.autoconfig.example:cloth-config:11.1.136@jar",
@@ -407,6 +417,17 @@
           }
         },
         {
+          "id": "BuildingWands-mc1.20.1-2.6.9-release.jar",
+          "name": "BuildingWands-mc1.20.1-2.6.9-release.jar",
+          "type": "File",
+          "artifact": {
+            "size": 369647,
+            "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/files/mods/BuildingWands-mc1.20.1-2.6.9-release.jar",
+            "MD5": "81e5f4d6f58b3edefafbe143fcf211c0",
+            "path": "mods/BuildingWands-mc1.20.1-2.6.9-release.jar"
+          }
+        },
+        {
           "id": "carryon-fabric-1.20.1-2.1.2.7.jar",
           "name": "carryon-fabric-1.20.1-2.1.2.7.jar",
           "type": "File",
@@ -470,6 +491,17 @@
             "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/files/mods/melody_fabric_1.0.4_MC_1.20.1-1.20.4.jar",
             "MD5": "8095b46d324586b3cf3d2f5bffe8b417",
             "path": "mods/melody_fabric_1.0.4_MC_1.20.1-1.20.4.jar"
+          }
+        },
+        {
+          "id": "prefabricated-5.2.0.jar",
+          "name": "prefabricated-5.2.0.jar",
+          "type": "File",
+          "artifact": {
+            "size": 11210870,
+            "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/files/mods/prefabricated-5.2.0.jar",
+            "MD5": "cf10dee570697f1bb49c6029d85cc0f4",
+            "path": "mods/prefabricated-5.2.0.jar"
           }
         },
         {
