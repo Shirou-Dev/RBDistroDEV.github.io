@@ -12,7 +12,7 @@
       "name": "Operation-Project SS1",
       "description": "MC 1.20.1 - Fabric 0.16.10",
       "icon": "https://i.imgur.com/wXisqcM.png",
-      "version": "1.1.6",
+      "version": "1.1.7",
       "address": "arsxonline.ddns.net:25768",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -537,17 +537,6 @@
           }
         },
         {
-          "id": "moonlight-1.20-2.13.75-fabric.jar",
-          "name": "moonlight-1.20-2.13.75-fabric.jar",
-          "type": "File",
-          "artifact": {
-            "size": 1230081,
-            "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/files/mods/moonlight-1.20-2.13.75-fabric.jar",
-            "MD5": "345ea09528b14de74f9ab01db8d8be46",
-            "path": "mods/moonlight-1.20-2.13.75-fabric.jar"
-          }
-        },
-        {
           "id": "Pehkui-3.8.3+1.14.4-1.21.jar",
           "name": "Pehkui-3.8.3+1.14.4-1.21.jar",
           "type": "File",
@@ -578,17 +567,6 @@
             "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/files/mods/SereneSeasons-fabric-1.20.1-9.1.0.1.jar",
             "MD5": "08bfd1f29208cc03fdef9300d972eb48",
             "path": "mods/SereneSeasons-fabric-1.20.1-9.1.0.1.jar"
-          }
-        },
-        {
-          "id": "supplementaries-1.20-3.1.16-fabric.jar",
-          "name": "supplementaries-1.20-3.1.16-fabric.jar",
-          "type": "File",
-          "artifact": {
-            "size": 14641540,
-            "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/files/mods/supplementaries-1.20-3.1.16-fabric.jar",
-            "MD5": "46e55fb56603fba69845f4113c9d1bf5",
-            "path": "mods/supplementaries-1.20-3.1.16-fabric.jar"
           }
         },
         {
