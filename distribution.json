@@ -12,7 +12,7 @@
       "name": "Operation-Project SS1",
       "description": "MC 1.20.1 - Fabric 0.16.10",
       "icon": "https://i.imgur.com/wXisqcM.png",
-      "version": "1.1.5",
+      "version": "1.1.6",
       "address": "arsxonline.ddns.net:25768",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -193,16 +193,6 @@
             "size": 721366,
             "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/fabricmods/required/modmenu-7.2.2.jar",
             "MD5": "2629511a2d3b141d9f2a24dc9685637e"
-          }
-        },
-        {
-          "id": "net.mehvahdjukaar:moonlight:1.20-2.13.75@jar",
-          "name": "Moonlight",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 1230081,
-            "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/fabricmods/required/moonlight-1.20-2.13.75-fabric.jar",
-            "MD5": "345ea09528b14de74f9ab01db8d8be46"
           }
         },
         {
@@ -544,6 +534,17 @@
             "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/files/mods/melody_fabric_1.0.4_MC_1.20.1-1.20.4.jar",
             "MD5": "8095b46d324586b3cf3d2f5bffe8b417",
             "path": "mods/melody_fabric_1.0.4_MC_1.20.1-1.20.4.jar"
+          }
+        },
+        {
+          "id": "moonlight-1.20-2.13.75-fabric.jar",
+          "name": "moonlight-1.20-2.13.75-fabric.jar",
+          "type": "File",
+          "artifact": {
+            "size": 1230081,
+            "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/files/mods/moonlight-1.20-2.13.75-fabric.jar",
+            "MD5": "345ea09528b14de74f9ab01db8d8be46",
+            "path": "mods/moonlight-1.20-2.13.75-fabric.jar"
           }
         },
         {
