@@ -12,7 +12,7 @@
       "name": "Operation-Project SS1",
       "description": "MC 1.20.1 - Fabric 0.16.10",
       "icon": "https://i.imgur.com/wXisqcM.png",
-      "version": "1.1.3",
+      "version": "1.1.5",
       "address": "arsxonline.ddns.net:25768",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -166,6 +166,16 @@
           }
         },
         {
+          "id": "glitchcore.fabric.core:glitchcore:0.0.1.1@jar",
+          "name": "GlitchCore",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 322107,
+            "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/fabricmods/required/GlitchCore-fabric-1.20.1-0.0.1.1.jar",
+            "MD5": "822ca38dab27c97720c17856fd68624b"
+          }
+        },
+        {
           "id": "generated.fabricmod:iris:1.6.10@jar",
           "name": "Iris",
           "type": "FabricMod",
@@ -183,6 +193,16 @@
             "size": 721366,
             "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/fabricmods/required/modmenu-7.2.2.jar",
             "MD5": "2629511a2d3b141d9f2a24dc9685637e"
+          }
+        },
+        {
+          "id": "net.mehvahdjukaar:moonlight:1.20-2.13.75@jar",
+          "name": "Moonlight",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1230081,
+            "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/fabricmods/required/moonlight-1.20-2.13.75-fabric.jar",
+            "MD5": "345ea09528b14de74f9ab01db8d8be46"
           }
         },
         {
@@ -417,6 +437,17 @@
           }
         },
         {
+          "id": "BetterPingDisplay-Fabric-1.20.1-1.1.1.jar",
+          "name": "BetterPingDisplay-Fabric-1.20.1-1.1.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 16226,
+            "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/files/mods/BetterPingDisplay-Fabric-1.20.1-1.1.1.jar",
+            "MD5": "40daa668fb18e365eef2b71138186201",
+            "path": "mods/BetterPingDisplay-Fabric-1.20.1-1.1.1.jar"
+          }
+        },
+        {
           "id": "BuildingWands-mc1.20.1-2.6.9-release.jar",
           "name": "BuildingWands-mc1.20.1-2.6.9-release.jar",
           "type": "File",
@@ -450,6 +481,17 @@
           }
         },
         {
+          "id": "farmers-delight-fabric-1.4.3.jar",
+          "name": "farmers-delight-fabric-1.4.3.jar",
+          "type": "File",
+          "artifact": {
+            "size": 2718948,
+            "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/files/mods/farmers-delight-fabric-1.4.3.jar",
+            "MD5": "dfcfdea62c47c8af60b5a72ce205b75c",
+            "path": "mods/farmers-delight-fabric-1.4.3.jar"
+          }
+        },
+        {
           "id": "figura-0.1.4+1.20.1-fabric-mc.jar",
           "name": "figura-0.1.4+1.20.1-fabric-mc.jar",
           "type": "File",
@@ -458,6 +500,17 @@
             "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/files/mods/figura-0.1.4+1.20.1-fabric-mc.jar",
             "MD5": "f4a65db9c13a6c53fecb4ab2d0ad10df",
             "path": "mods/figura-0.1.4+1.20.1-fabric-mc.jar"
+          }
+        },
+        {
+          "id": "hdskins-6.10.3+1.20.1.jar",
+          "name": "hdskins-6.10.3+1.20.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 1410041,
+            "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/files/mods/hdskins-6.10.3+1.20.1.jar",
+            "MD5": "08d12dfe9942593be328745422654b33",
+            "path": "mods/hdskins-6.10.3+1.20.1.jar"
           }
         },
         {
@@ -494,6 +547,17 @@
           }
         },
         {
+          "id": "Pehkui-3.8.3+1.14.4-1.21.jar",
+          "name": "Pehkui-3.8.3+1.14.4-1.21.jar",
+          "type": "File",
+          "artifact": {
+            "size": 555041,
+            "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/files/mods/Pehkui-3.8.3+1.14.4-1.21.jar",
+            "MD5": "c28dbac324e13836c2c15e47bfcd9e45",
+            "path": "mods/Pehkui-3.8.3+1.14.4-1.21.jar"
+          }
+        },
+        {
           "id": "prefabricated-5.2.0.jar",
           "name": "prefabricated-5.2.0.jar",
           "type": "File",
@@ -502,6 +566,28 @@
             "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/files/mods/prefabricated-5.2.0.jar",
             "MD5": "cf10dee570697f1bb49c6029d85cc0f4",
             "path": "mods/prefabricated-5.2.0.jar"
+          }
+        },
+        {
+          "id": "SereneSeasons-fabric-1.20.1-9.1.0.1.jar",
+          "name": "SereneSeasons-fabric-1.20.1-9.1.0.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 382907,
+            "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/files/mods/SereneSeasons-fabric-1.20.1-9.1.0.1.jar",
+            "MD5": "08bfd1f29208cc03fdef9300d972eb48",
+            "path": "mods/SereneSeasons-fabric-1.20.1-9.1.0.1.jar"
+          }
+        },
+        {
+          "id": "supplementaries-1.20-3.1.16-fabric.jar",
+          "name": "supplementaries-1.20-3.1.16-fabric.jar",
+          "type": "File",
+          "artifact": {
+            "size": 14641540,
+            "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/files/mods/supplementaries-1.20-3.1.16-fabric.jar",
+            "MD5": "46e55fb56603fba69845f4113c9d1bf5",
+            "path": "mods/supplementaries-1.20-3.1.16-fabric.jar"
           }
         },
         {
