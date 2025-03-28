@@ -12,8 +12,8 @@
       "name": "Operation-Project SS1",
       "description": "MC 1.20.1 - Fabric 0.16.10",
       "icon": "https://i.imgur.com/wXisqcM.png",
-      "version": "1.2.0",
-      "address": "arsxonline.ddns.net:25768",
+      "version": "1.2.2",
+      "address": "zakuranetwork.ddns.net",
       "minecraftVersion": "1.20.1",
       "discord": {
         "shortId": "SS1 - The Ritual",
@@ -330,7 +330,7 @@
           "name": "op-ui-ingame.txt",
           "type": "File",
           "artifact": {
-            "size": 19387,
+            "size": 19394,
             "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/files/config/fancymenu/customization/op-ui-ingame.txt",
             "path": "config/fancymenu/customization/op-ui-ingame.txt"
           }
@@ -340,7 +340,7 @@
           "name": "op-ui.txt",
           "type": "File",
           "artifact": {
-            "size": 22167,
+            "size": 22169,
             "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/files/config/fancymenu/customization/op-ui.txt",
             "path": "config/fancymenu/customization/op-ui.txt"
           }
@@ -380,7 +380,7 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 1940,
+            "size": 1939,
             "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/files/config/fancymenu/options.txt",
             "path": "config/fancymenu/options.txt"
           }
@@ -577,6 +577,17 @@
             "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/files/mods/SereneSeasons-fabric-1.20.1-9.1.0.1.jar",
             "MD5": "08bfd1f29208cc03fdef9300d972eb48",
             "path": "mods/SereneSeasons-fabric-1.20.1-9.1.0.1.jar"
+          }
+        },
+        {
+          "id": "VanillaTweaks-fabric-1.20.1-1.5.71.jar",
+          "name": "VanillaTweaks-fabric-1.20.1-1.5.71.jar",
+          "type": "File",
+          "artifact": {
+            "size": 315919,
+            "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/files/mods/VanillaTweaks-fabric-1.20.1-1.5.71.jar",
+            "MD5": "79551a62804802afab4f1a5ff8b47b3d",
+            "path": "mods/VanillaTweaks-fabric-1.20.1-1.5.71.jar"
           }
         },
         {
