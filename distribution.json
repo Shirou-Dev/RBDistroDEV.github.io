@@ -12,7 +12,7 @@
       "name": "Operation-Project SS1",
       "description": "MC 1.20.1 - Fabric 0.16.10",
       "icon": "https://i.imgur.com/wXisqcM.png",
-      "version": "1.2.3",
+      "version": "1.2.4",
       "address": "arsxonline.ddns.net:25768",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -420,7 +420,7 @@
           "name": "modmenu.json",
           "type": "File",
           "artifact": {
-            "size": 1044,
+            "size": 1043,
             "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/files/config/modmenu.json",
             "path": "config/modmenu.json"
           }
@@ -514,14 +514,14 @@
           }
         },
         {
-          "id": "hdskins-6.10.2+1.20.jar",
-          "name": "hdskins-6.10.2+1.20.jar",
+          "id": "hdskins-6.10.3+1.20.1.jar",
+          "name": "hdskins-6.10.3+1.20.1.jar",
           "type": "File",
           "artifact": {
-            "size": 1406373,
-            "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/files/mods/hdskins-6.10.2+1.20.jar",
-            "MD5": "83a9af291356c8c04671b2801446a1ea",
-            "path": "mods/hdskins-6.10.2+1.20.jar"
+            "size": 1410041,
+            "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/files/mods/hdskins-6.10.3+1.20.1.jar",
+            "MD5": "08d12dfe9942593be328745422654b33",
+            "path": "mods/hdskins-6.10.3+1.20.1.jar"
           }
         },
         {
