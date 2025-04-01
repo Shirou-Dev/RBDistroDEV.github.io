@@ -12,8 +12,8 @@
       "name": "Operation-Project SS1",
       "description": "MC 1.20.1 - Fabric 0.16.10",
       "icon": "https://i.imgur.com/wXisqcM.png",
-      "version": "1.2.2",
-      "address": "zakuranetwork.ddns.net",
+      "version": "1.2.3",
+      "address": "arsxonline.ddns.net:25768",
       "minecraftVersion": "1.20.1",
       "discord": {
         "shortId": "SS1 - The Ritual",
@@ -470,6 +470,17 @@
           }
         },
         {
+          "id": "Controlling-fabric-1.20.1-12.0.2.jar",
+          "name": "Controlling-fabric-1.20.1-12.0.2.jar",
+          "type": "File",
+          "artifact": {
+            "size": 122778,
+            "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/files/mods/Controlling-fabric-1.20.1-12.0.2.jar",
+            "MD5": "87c6431504ff6a040da4533c933d6b12",
+            "path": "mods/Controlling-fabric-1.20.1-12.0.2.jar"
+          }
+        },
+        {
           "id": "fancymenu_fabric_3.3.2_MC_1.20.1 (1).jar",
           "name": "fancymenu_fabric_3.3.2_MC_1.20.1 (1).jar",
           "type": "File",
@@ -503,14 +514,14 @@
           }
         },
         {
-          "id": "hdskins-6.10.3+1.20.1.jar",
-          "name": "hdskins-6.10.3+1.20.1.jar",
+          "id": "hdskins-6.10.2+1.20.jar",
+          "name": "hdskins-6.10.2+1.20.jar",
           "type": "File",
           "artifact": {
-            "size": 1410041,
-            "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/files/mods/hdskins-6.10.3+1.20.1.jar",
-            "MD5": "08d12dfe9942593be328745422654b33",
-            "path": "mods/hdskins-6.10.3+1.20.1.jar"
+            "size": 1406373,
+            "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/files/mods/hdskins-6.10.2+1.20.jar",
+            "MD5": "83a9af291356c8c04671b2801446a1ea",
+            "path": "mods/hdskins-6.10.2+1.20.jar"
           }
         },
         {
@@ -566,6 +577,17 @@
             "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/files/mods/prefabricated-5.2.0.jar",
             "MD5": "cf10dee570697f1bb49c6029d85cc0f4",
             "path": "mods/prefabricated-5.2.0.jar"
+          }
+        },
+        {
+          "id": "Searchables-fabric-1.20.1-1.0.3.jar",
+          "name": "Searchables-fabric-1.20.1-1.0.3.jar",
+          "type": "File",
+          "artifact": {
+            "size": 80283,
+            "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/files/mods/Searchables-fabric-1.20.1-1.0.3.jar",
+            "MD5": "57cbf00f9bb837538a3a694cad095a11",
+            "path": "mods/Searchables-fabric-1.20.1-1.0.3.jar"
           }
         },
         {

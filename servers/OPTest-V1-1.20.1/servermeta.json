@@ -1,11 +1,11 @@
 {
   "$schema": "file:///D:/RBBaseTestDEV/schemas/ServerMetaSchema.schema.json",
   "meta": {
-    "version": "1.2.2",
+    "version": "1.2.3",
     "name": "Operation-Project SS1",
     "description": "MC 1.20.1 - Fabric 0.16.10",
     "icon": "https://i.imgur.com/wXisqcM.png",
-    "address": "zakuranetwork.ddns.net",
+    "address": "arsxonline.ddns.net:25768",
     "discord": {
       "shortId": "SS1 - The Ritual",
       "largeImageText": "Operation Project",
