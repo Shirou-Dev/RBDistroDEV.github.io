@@ -12,8 +12,8 @@
       "name": "Operation-Project SS1",
       "description": "MC 1.20.1 - Fabric 0.16.10",
       "icon": "https://i.imgur.com/wXisqcM.png",
-      "version": "1.2.5",
-      "address": "arsxonline.ddns.net:25768",
+      "version": "1.2.6",
+      "address": "zakuraonline.ddns.net:25768",
       "minecraftVersion": "1.20.1",
       "discord": {
         "shortId": "SS1 - The Ritual",
@@ -599,6 +599,28 @@
             "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/files/mods/SereneSeasons-fabric-1.20.1-9.1.0.1.jar",
             "MD5": "08bfd1f29208cc03fdef9300d972eb48",
             "path": "mods/SereneSeasons-fabric-1.20.1-9.1.0.1.jar"
+          }
+        },
+        {
+          "id": "sit-1.20.1-27.jar",
+          "name": "sit-1.20.1-27.jar",
+          "type": "File",
+          "artifact": {
+            "size": 64238,
+            "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/files/mods/sit-1.20.1-27.jar",
+            "MD5": "cb59bea8fdbd7a6f17108b83f4570365",
+            "path": "mods/sit-1.20.1-27.jar"
+          }
+        },
+        {
+          "id": "skin_changer-fabric-1.20.1-0.6.6.jar",
+          "name": "skin_changer-fabric-1.20.1-0.6.6.jar",
+          "type": "File",
+          "artifact": {
+            "size": 60199,
+            "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/files/mods/skin_changer-fabric-1.20.1-0.6.6.jar",
+            "MD5": "ad602402da0eff89f43043e1f18db283",
+            "path": "mods/skin_changer-fabric-1.20.1-0.6.6.jar"
           }
         },
         {
