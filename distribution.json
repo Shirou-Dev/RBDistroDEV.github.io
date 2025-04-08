@@ -12,7 +12,7 @@
       "name": "Operation-Project SS1",
       "description": "MC 1.20.1 - Fabric 0.16.10",
       "icon": "https://i.imgur.com/wXisqcM.png",
-      "version": "1.2.6",
+      "version": "1.2.7",
       "address": "zakuraonline.ddns.net:25768",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -320,7 +320,7 @@
           "name": "customizablemenus.txt",
           "type": "File",
           "artifact": {
-            "size": 183,
+            "size": 84,
             "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/files/config/fancymenu/customizablemenus.txt",
             "path": "config/fancymenu/customizablemenus.txt"
           }
@@ -330,7 +330,7 @@
           "name": "op-ui-ingame.txt",
           "type": "File",
           "artifact": {
-            "size": 19394,
+            "size": 17793,
             "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/files/config/fancymenu/customization/op-ui-ingame.txt",
             "path": "config/fancymenu/customization/op-ui-ingame.txt"
           }
@@ -340,7 +340,7 @@
           "name": "op-ui.txt",
           "type": "File",
           "artifact": {
-            "size": 22169,
+            "size": 20554,
             "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/files/config/fancymenu/customization/op-ui.txt",
             "path": "config/fancymenu/customization/op-ui.txt"
           }
@@ -380,7 +380,7 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 1941,
+            "size": 1939,
             "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/files/config/fancymenu/options.txt",
             "path": "config/fancymenu/options.txt"
           }
@@ -434,6 +434,17 @@
             "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/files/mods/another_furniture-fabric-1.20.1-3.0.1.jar",
             "MD5": "ad7757e3ad83a5a789cdf5932d9a20f9",
             "path": "mods/another_furniture-fabric-1.20.1-3.0.1.jar"
+          }
+        },
+        {
+          "id": "balm-fabric-1.20.1-7.3.27.jar",
+          "name": "balm-fabric-1.20.1-7.3.27.jar",
+          "type": "File",
+          "artifact": {
+            "size": 503099,
+            "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/files/mods/balm-fabric-1.20.1-7.3.27.jar",
+            "MD5": "53f2232e0bd89bc6a12cf2bbcc9d7862",
+            "path": "mods/balm-fabric-1.20.1-7.3.27.jar"
           }
         },
         {
@@ -514,14 +525,25 @@
           }
         },
         {
-          "id": "hdskins-6.10.3+1.20.1.jar",
-          "name": "hdskins-6.10.3+1.20.1.jar",
+          "id": "hardcorerevival-fabric-1.20.1-12.0.7.jar",
+          "name": "hardcorerevival-fabric-1.20.1-12.0.7.jar",
           "type": "File",
           "artifact": {
-            "size": 1410041,
-            "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/files/mods/hdskins-6.10.3+1.20.1.jar",
-            "MD5": "08d12dfe9942593be328745422654b33",
-            "path": "mods/hdskins-6.10.3+1.20.1.jar"
+            "size": 219004,
+            "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/files/mods/hardcorerevival-fabric-1.20.1-12.0.7.jar",
+            "MD5": "7b1e960ebc3bb1e4fe050d73e361818f",
+            "path": "mods/hardcorerevival-fabric-1.20.1-12.0.7.jar"
+          }
+        },
+        {
+          "id": "immersive_melodies-0.4.0+1.20.1-fabric.jar",
+          "name": "immersive_melodies-0.4.0+1.20.1-fabric.jar",
+          "type": "File",
+          "artifact": {
+            "size": 4257781,
+            "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/files/mods/immersive_melodies-0.4.0+1.20.1-fabric.jar",
+            "MD5": "a516cf64bd5aa3e4e4884f348fa5d5f7",
+            "path": "mods/immersive_melodies-0.4.0+1.20.1-fabric.jar"
           }
         },
         {
@@ -533,6 +555,17 @@
             "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/files/mods/konkrete_fabric_1.8.1_MC_1.20.1.jar",
             "MD5": "a816ca0f5272f0e60c745f7fe6bef1d6",
             "path": "mods/konkrete_fabric_1.8.1_MC_1.20.1.jar"
+          }
+        },
+        {
+          "id": "letsdo-farm_and_charm-fabric-1.0.6.jar",
+          "name": "letsdo-farm_and_charm-fabric-1.0.6.jar",
+          "type": "File",
+          "artifact": {
+            "size": 3142006,
+            "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/files/mods/letsdo-farm_and_charm-fabric-1.0.6.jar",
+            "MD5": "93c00ea66cd449f748ef13e92cbbb97c",
+            "path": "mods/letsdo-farm_and_charm-fabric-1.0.6.jar"
           }
         },
         {
@@ -621,17 +654,6 @@
             "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/files/mods/skin_changer-fabric-1.20.1-0.6.6.jar",
             "MD5": "ad602402da0eff89f43043e1f18db283",
             "path": "mods/skin_changer-fabric-1.20.1-0.6.6.jar"
-          }
-        },
-        {
-          "id": "VanillaTweaks-fabric-1.20.1-1.5.71.jar",
-          "name": "VanillaTweaks-fabric-1.20.1-1.5.71.jar",
-          "type": "File",
-          "artifact": {
-            "size": 315919,
-            "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/files/mods/VanillaTweaks-fabric-1.20.1-1.5.71.jar",
-            "MD5": "79551a62804802afab4f1a5ff8b47b3d",
-            "path": "mods/VanillaTweaks-fabric-1.20.1-1.5.71.jar"
           }
         },
         {
