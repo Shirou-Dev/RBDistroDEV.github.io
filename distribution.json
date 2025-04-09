@@ -12,7 +12,7 @@
       "name": "Operation-Project SS1",
       "description": "MC 1.20.1 - Fabric 0.16.10",
       "icon": "https://i.imgur.com/wXisqcM.png",
-      "version": "1.2.7",
+      "version": "1.2.8",
       "address": "zakuraonline.ddns.net:25768",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -434,6 +434,17 @@
             "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/files/mods/another_furniture-fabric-1.20.1-3.0.1.jar",
             "MD5": "ad7757e3ad83a5a789cdf5932d9a20f9",
             "path": "mods/another_furniture-fabric-1.20.1-3.0.1.jar"
+          }
+        },
+        {
+          "id": "Axiom-4.7.1-for-MC1.20.1.jar",
+          "name": "Axiom-4.7.1-for-MC1.20.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 39320881,
+            "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/files/mods/Axiom-4.7.1-for-MC1.20.1.jar",
+            "MD5": "7c2ef729a0bcdc3447f72d4abb7e3acf",
+            "path": "mods/Axiom-4.7.1-for-MC1.20.1.jar"
           }
         },
         {
