@@ -12,7 +12,7 @@
       "name": "Operation-Project SS1",
       "description": "MC 1.20.1 - Fabric 0.16.10",
       "icon": "https://i.imgur.com/wXisqcM.png",
-      "version": "1.2.9",
+      "version": "1.3.0",
       "address": "zakuraonline.ddns.net:25768",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -558,6 +558,28 @@
           }
         },
         {
+          "id": "letsdo-API-fabric-1.2.15-fabric.jar",
+          "name": "letsdo-API-fabric-1.2.15-fabric.jar",
+          "type": "File",
+          "artifact": {
+            "size": 1702813,
+            "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/files/mods/letsdo-API-fabric-1.2.15-fabric.jar",
+            "MD5": "572b3414c6e93d6679f6e89a2ae49995",
+            "path": "mods/letsdo-API-fabric-1.2.15-fabric.jar"
+          }
+        },
+        {
+          "id": "letsdo-bakery-fabric-1.1.15.jar",
+          "name": "letsdo-bakery-fabric-1.1.15.jar",
+          "type": "File",
+          "artifact": {
+            "size": 1529233,
+            "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/files/mods/letsdo-bakery-fabric-1.1.15.jar",
+            "MD5": "b5e456b13c358e448cb458567be2399e",
+            "path": "mods/letsdo-bakery-fabric-1.1.15.jar"
+          }
+        },
+        {
           "id": "letsdo-farm_and_charm-fabric-1.0.6.jar",
           "name": "letsdo-farm_and_charm-fabric-1.0.6.jar",
           "type": "File",
@@ -566,6 +588,28 @@
             "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/files/mods/letsdo-farm_and_charm-fabric-1.0.6.jar",
             "MD5": "93c00ea66cd449f748ef13e92cbbb97c",
             "path": "mods/letsdo-farm_and_charm-fabric-1.0.6.jar"
+          }
+        },
+        {
+          "id": "letsdo-herbalbrews-fabric-1.0.11.jar",
+          "name": "letsdo-herbalbrews-fabric-1.0.11.jar",
+          "type": "File",
+          "artifact": {
+            "size": 729055,
+            "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/files/mods/letsdo-herbalbrews-fabric-1.0.11.jar",
+            "MD5": "a4f30494eb29b8ad2d9484b9e31c7c3b",
+            "path": "mods/letsdo-herbalbrews-fabric-1.0.11.jar"
+          }
+        },
+        {
+          "id": "letsdo-vinery-fabric-1.4.39.jar",
+          "name": "letsdo-vinery-fabric-1.4.39.jar",
+          "type": "File",
+          "artifact": {
+            "size": 4178439,
+            "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/files/mods/letsdo-vinery-fabric-1.4.39.jar",
+            "MD5": "6d2d7ae608f65becc5803c3b9dc48b38",
+            "path": "mods/letsdo-vinery-fabric-1.4.39.jar"
           }
         },
         {
