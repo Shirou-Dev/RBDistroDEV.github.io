@@ -12,7 +12,7 @@
       "name": "Operation-Project SS1",
       "description": "MC 1.20.1 - Fabric 0.16.10",
       "icon": "https://i.imgur.com/wXisqcM.png",
-      "version": "1.3.2",
+      "version": "1.3.3",
       "address": "zakuraonline.ddns.net:25768",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -547,6 +547,17 @@
           }
         },
         {
+          "id": "immersive_paintings-0.6.7+1.20.1-fabric.jar",
+          "name": "immersive_paintings-0.6.7+1.20.1-fabric.jar",
+          "type": "File",
+          "artifact": {
+            "size": 4839553,
+            "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/files/mods/immersive_paintings-0.6.7+1.20.1-fabric.jar",
+            "MD5": "e76d3cb55491aef71050ec96863b81ca",
+            "path": "mods/immersive_paintings-0.6.7+1.20.1-fabric.jar"
+          }
+        },
+        {
           "id": "konkrete_fabric_1.8.1_MC_1.20.1.jar",
           "name": "konkrete_fabric_1.8.1_MC_1.20.1.jar",
           "type": "File",
@@ -697,6 +708,16 @@
             "size": 3698,
             "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/files/options.txt",
             "path": "options.txt"
+          }
+        },
+        {
+          "id": "cocricot for 1.20.x v1.0.1.zip",
+          "name": "cocricot for 1.20.x v1.0.1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 23977879,
+            "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/files/resourcepacks/cocricot%20for%201.20.x%20v1.0.1.zip",
+            "path": "resourcepacks/cocricot for 1.20.x v1.0.1.zip"
           }
         },
         {
