@@ -2,9 +2,9 @@
   "version": "1.0.0",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
-    "clientId": "1327894948644786237",
-    "smallImageText": "OP-Developer",
-    "smallImageKey": "oplogo"
+    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
   },
   "servers": [
     {
@@ -12,7 +12,7 @@
       "name": "Operation-Project SS1",
       "description": "MC 1.20.1 - Fabric 0.16.10",
       "icon": "https://i.imgur.com/wXisqcM.png",
-      "version": "1.3.7",
+      "version": "1.3.8",
       "address": "zakuraonline.ddns.net:25768",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -196,6 +196,16 @@
           }
         },
         {
+          "id": "org.embeddedt:modernfix:5.21.0+mc1.20.1@jar",
+          "name": "ModernFix",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 507598,
+            "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/fabricmods/required/modernfix-fabric-5.21.0+mc1.20.1.jar",
+            "MD5": "b37180878dfeb03b4d8762f77cb05317"
+          }
+        },
+        {
           "id": "com.terraformersmc:modmenu:7.2.2@jar",
           "name": "Mod Menu",
           "type": "FabricMod",
@@ -256,13 +266,13 @@
           }
         },
         {
-          "id": "rynnavinx.sspb:sspb:3.4.0@jar",
-          "name": "Sodium Shadowy Path Blocks",
+          "id": "toni.sodiumextras:sodiumextras:1.0.6@jar",
+          "name": "Sodium Extras",
           "type": "FabricMod",
           "artifact": {
-            "size": 55474,
-            "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/fabricmods/required/sodium-shadowy-path-blocks-3.4.0.jar",
-            "MD5": "b172c744dae93f16ecb8eb40122328e8"
+            "size": 630468,
+            "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/fabricmods/required/sodiumextras-fabric-1.0.7-1.20.1.jar",
+            "MD5": "2a4783798a52fe22c5f6476fc65c0ff1"
           }
         },
         {
