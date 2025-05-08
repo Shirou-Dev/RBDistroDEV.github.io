@@ -12,7 +12,7 @@
       "name": "Operation-Project SS1",
       "description": "MC 1.20.1 - Fabric 0.16.10",
       "icon": "https://i.imgur.com/wXisqcM.png",
-      "version": "1.3.6",
+      "version": "1.3.7",
       "address": "zakuraonline.ddns.net:25768",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -216,13 +216,13 @@
           }
         },
         {
-          "id": "su.plo.voice:plasmovoice:2.0.10@jar",
+          "id": "su.plo.voice:plasmovoice:2.1.3@jar",
           "name": "Plasmo Voice",
           "type": "FabricMod",
           "artifact": {
-            "size": 11375312,
-            "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/fabricmods/required/plasmovoice-fabric-1.20.1-2.0.10.jar",
-            "MD5": "0732e196a467cbaae908f21c1b7815c2"
+            "size": 11936723,
+            "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/fabricmods/required/plasmovoice-fabric-1.20.1-2.1.3.jar",
+            "MD5": "b0eaff774d54f678cfd334801507f63e"
           }
         },
         {
@@ -499,6 +499,28 @@
             "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/files/mods/Controlling-fabric-1.20.1-12.0.2.jar",
             "MD5": "87c6431504ff6a040da4533c933d6b12",
             "path": "mods/Controlling-fabric-1.20.1-12.0.2.jar"
+          }
+        },
+        {
+          "id": "dynamic-fps-3.9.3+minecraft-1.20.0-fabric.jar",
+          "name": "dynamic-fps-3.9.3+minecraft-1.20.0-fabric.jar",
+          "type": "File",
+          "artifact": {
+            "size": 195047,
+            "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/files/mods/dynamic-fps-3.9.3+minecraft-1.20.0-fabric.jar",
+            "MD5": "9672f80b493acaa879b5aa267da8ece0",
+            "path": "mods/dynamic-fps-3.9.3+minecraft-1.20.0-fabric.jar"
+          }
+        },
+        {
+          "id": "entityculling-fabric-1.7.4-mc1.20.1.jar",
+          "name": "entityculling-fabric-1.7.4-mc1.20.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 70663,
+            "url": "http://shirou-dev.github.io/RBDistroDEV.github.io/servers/OPTest-V1-1.20.1/files/mods/entityculling-fabric-1.7.4-mc1.20.1.jar",
+            "MD5": "44684ef5978093854e6c4bfd45f024ce",
+            "path": "mods/entityculling-fabric-1.7.4-mc1.20.1.jar"
           }
         },
         {
